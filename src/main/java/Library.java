@@ -6,6 +6,9 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
+    	
+    	System.out.println("ffff");
+    	
         return true;
     }
 }
